@@ -159,13 +159,31 @@ To identify the best-performing outlet type.
 
 ---
 
-#  Key Insights
+## Key Insights
 
+Total Sales: The business generated approximately $1.20M in total sales.
+Total Items Sold: Around 8.52K items were sold, with an average sales value of $141.
+Average Rating: Products received an average customer rating of 3.9/5.
+Outlet Establishment: Sales peaked at approximately $205K in 2018, while the lowest sales were around $78K in 2012.
+Top Item Categories:
+Fruits & Vegetables – $178K
+Snack Foods – $175K
+Household – $136K
+Frozen Foods – $119K
+Dairy – $101K
+Outlet Performance: Supermarket Type1 contributes the highest sales at approximately $0.79M, significantly higher than the other outlet types.
+Outlet Size: Medium outlets generate the highest sales ($507.90K), followed by Small ($444.79K) and High ($248.99K).
+Fat Content: Low Fat products contribute approximately $776.32K, compared with $425.36K from Regular products.
+Outlet Tier: Tier 3 outlets generate the highest sales, followed by Tier 2 and Tier 1 outlets.
+Overall, Fruits & Vegetables and Snack Foods are the strongest product categories, while Supermarket Type1 and Medium-sized outlets are the strongest outlet segments.
 
+## Filters
 
+The dashboard includes a Filter Panel with slicers for:
 
-
-
+Outlet Location Type
+Outlet Type
+Item Type
 
 ---
 
