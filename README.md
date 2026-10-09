@@ -197,13 +197,13 @@ Blinkit-Sales-Dashboard/
 │
 ├── Dataset/
 │   └── BlinkIT Grocery Data.xlsx
+├── Images/
+│   └── blinkit-dashboard.png
+├── Presentation/
+│   └── Blinkit_Sales_PPT.pbix
 │
 ├── Project/
 │   └── Blinkit_Final_Project.pbix
-| 
-│
-├── Images/
-│   └── blinkit-dashboard.png
 │
 └── README.md
 ```
